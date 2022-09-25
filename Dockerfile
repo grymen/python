@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 8000
 
-CMD ["python", "scripts/manage.py runserver"]
+CMD ["python", "scripts/manage.py"]
